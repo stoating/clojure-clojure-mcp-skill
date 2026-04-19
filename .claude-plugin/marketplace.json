@@ -1,0 +1,17 @@
+{
+  "name": "clojure-clojure-mcp-skill",
+  "metadata": {
+    "description": "ClojureMCP skill set for AI coding agents - MCP server setup, CLI assistant and Claude Desktop integration, nREPL connection, tool profiles, config.edn, custom tools/prompts/resources, and troubleshooting."
+  },
+  "owner": {
+    "name": "stoating"
+  },
+  "plugins": [
+    {
+      "name": "clojure-mcp",
+      "source": "./",
+      "description": "ClojureMCP skill - MCP server setup, CLI assistant and Claude Desktop integration, nREPL connection, tool profiles, config.edn, custom tools/prompts/resources, and troubleshooting.",
+      "version": "0.1.0"
+    }
+  ]
+}
